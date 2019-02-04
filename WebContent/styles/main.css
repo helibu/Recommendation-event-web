@@ -21,7 +21,7 @@ ul {
  */
 .top-header {
 	align-items: center;
-	background: #DF574B;
+	background: #1b0167;
 	box-shadow: 0px 2px 10px #333333;
 	display: flex;
 	height: 60px;
@@ -76,7 +76,7 @@ ul {
 .container>header {
 	align-items: center;
 	background:
-		url("background.png")
+		url("background.jpg")
 		no-repeat 50% 50%;
 	background-size: 100%;
 	display: flex;
@@ -97,10 +97,47 @@ ul {
 }
 
 /**
+ * login form
+ */
+#login-form {
+  color: #624630;
+  margin: 0px auto;
+  overflow: auto;
+  padding: 40px;
+  width: 300px;
+}
+
+#login-form label {
+  display: block;
+}
+
+#login-form input {
+  border: none;
+  display: block;
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 100%;
+}
+
+#login-form button {
+  cursor: pointer;
+  float: right;
+  padding: 8px 20px;
+  text-align: right;
+}
+
+#login-error {
+  clear: both;
+  color: #990000;
+  padding-top: 10px;
+}
+
+
+/**
  * main section
  */
 .main-section {
-	background: #F3BB43;
+	background: #0057ae;
 }
 
 /**
@@ -131,12 +168,12 @@ ul {
 }
 
 .main-nav-btn:hover {
-	background: rgba(255, 255, 255, 0.8);
+	background: rgba(255, 255, 255, 0.95);
 	color: #624630;
 }
 
 .main-nav-btn.active {
-	background: #F2EBD9;
+	background: rgba(255, 255, 255, 0.95);
 	color: #624630;
 }
 
@@ -148,7 +185,7 @@ ul {
  * item list
  */
 #item-list {
-	background: #F2EBD9;
+	background: rgba(255, 255, 255, 0.95);
 	color: #624630;
 	list-style: none;
 	margin-left: 180px;
