@@ -4,6 +4,7 @@
 It's a event recommendation web using TicketMaster Api. It can load nearby events, then you can like some events and see the recommendation for similiar events.
 
 <p align="center"><img src="https://github.com/helibu/Recommendation-event-web/blob/master/pics/architecture.png"></p>
+
 ## Features
 
 ### Log in
