@@ -55,7 +55,7 @@
 		var welcomeMsg = $('welcome-msg');
 		var logoutBtn = $('logout-link');
 
-		welcomeMsg.innerHTML = 'Welcome, ' + user_fullname;
+		
 
 		showElement(itemNav);
 		showElement(itemList);
