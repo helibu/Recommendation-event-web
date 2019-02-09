@@ -6,7 +6,8 @@ It's a event recommendation web using TicketMaster Api. It can load nearby event
 <p align="center"><img src="https://github.com/helibu/Recommendation-event-web/blob/master/pics/architecture.png"></p>
 
 ## Features
-
+### Deployed on EC2
+http://3.86.201.143/Jupiter/
 ### Log in
 <p align="center"><img src="https://github.com/helibu/Recommendation-event-web/blob/master/pics/login.gif"></p>
 
