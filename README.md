@@ -8,6 +8,8 @@ It's a event recommendation web using TicketMaster Api. It can load nearby event
 ## Features
 ### Deployed on EC2
 http://3.86.201.143/Jupiter/
+UserName: 1111 Password: 2222
+
 ### Log in
 <p align="center"><img src="https://github.com/helibu/Recommendation-event-web/blob/master/pics/login.gif"></p>
 
